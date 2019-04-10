@@ -52,3 +52,5 @@ const attachEvents = () => {
     calc.calculate();
   });
 };
+
+export default { attachEvents };
